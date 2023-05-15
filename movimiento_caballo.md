@@ -1,4 +1,6 @@
 # Maqueen
+while True:
+if button_a.was_pressed()
 from microbit import *
 from MaQueen import *
 
